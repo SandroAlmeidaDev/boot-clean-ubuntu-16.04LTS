@@ -1,4 +1,4 @@
-# /boot is not 100% full and apt is working
+# /boot is 100% full and apt is working
 
 ### Explaining the script
 
